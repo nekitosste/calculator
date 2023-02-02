@@ -1,0 +1,29 @@
+input, select, button{
+border-radius: 10px;
+height: 30px;
+width: 100px;
+background-color: rgb(253, 249, 249);
+color: rgb(255, 86, 86);
+margin: 10px;
+border: 1px solid rgb(255, 86, 86);
+font-size: 20px;
+}
+
+input:hover:active:focus-visible, 
+select:hover:active:focus-visible, 
+button:hover:active:focus-visible {
+    border-radius: 10px;
+    height: 30px;
+    width: 100px;
+    background-color: rgb(253, 249, 249);
+    color: rgb(255, 86, 86);
+    margin: 10px;
+    border: 1px solid rgb(255, 86, 86);
+    font-size: 20px;
+}
+
+p { 
+  font-size: 40px;  
+    color: rgb(255, 86, 86);
+    margin-left: 40px;
+}
